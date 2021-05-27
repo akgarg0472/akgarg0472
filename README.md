@@ -1,7 +1,7 @@
 ## Hi there, I'm Akhilesh Garg <img src="https://raw.githubusercontent.com/akgarg0472/akgarg0472/main/.github/images/hi.gif" width="30px">
 
 - 🔭 Currently working on improvement of my problem solving & front end skills
-- 🌱 Exploring Spring framework & it's modules
+- 🌱 Exploring Spring framework & React JS
 - ⚡ Facts: I love drawing & coding❤️
 
 ## Connect with me
