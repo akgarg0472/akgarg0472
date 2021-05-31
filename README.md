@@ -18,7 +18,7 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akgarg0472&theme=gotham" alt="Akhilesh Garg | Most used Programming languages"></p> 
 
 ## 📊 Weekly statistics
-<a href="https://wakatime.com"><img width="600px" height="450px" src="https://wakatime.com/share/@akgarg0472/debc8931-4987-4de8-bfb2-04296e5e2cd4.png" /></a>
+<img width="600px" height="450px" src="https://wakatime.com/share/@akgarg0472/debc8931-4987-4de8-bfb2-04296e5e2cd4.png" />
 <br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akgarg0472&layuout=compact&theme=gotham" alt="Weekly stats"/>
 
