@@ -1,8 +1,8 @@
 ## Hi there, I'm Akhilesh Garg <img src="https://raw.githubusercontent.com/akgarg0472/akgarg0472/main/.github/images/hi.gif" width="30px">
 
-- 🔭 Currently working on problem solving & front-end
+- 🔭 Currently working on problem solving skill and front end designing
 - 🌱 Exploring Spring framework & React JS
-- ⚡ Facts: I love drawing & coding❤️
+- ⚡ Facts: I like to do sketching❤️
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/akgarg0472/"><img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/akgarg0472/akgarg0472/main/.github/images/linkedin.svg"/></a>
@@ -17,7 +17,7 @@
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akgarg0472&&theme=gotham" alt="Akhilesh Garf | Streaks"></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akgarg0472&theme=gotham" alt="Akhilesh Garg | Most used Programming languages"></p> 
 
-## 📊 Weekly statistics
+## 📊 Last 7 days stats
 <img width="600px" height="450px" src="https://wakatime.com/share/@akgarg0472/debc8931-4987-4de8-bfb2-04296e5e2cd4.png" />
 <br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akgarg0472&layuout=compact&theme=gotham" alt="Weekly stats"/>
