@@ -1,8 +1,8 @@
 ## Hi there, I'm Akhilesh Garg <img src="https://raw.githubusercontent.com/akgarg0472/akgarg0472/main/.github/images/hi.gif" width="30px">
 
-- 🔭 Currently working on problem solving skill and front end designing
+- 🔭 Currently working on problem solving skill and front end development
 - 🌱 Exploring Spring framework & React JS
-- ⚡ Facts: I like to do sketching❤️
+- ⚡ Love sketching in free time❤️
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/akgarg0472/"><img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/akgarg0472/akgarg0472/main/.github/images/linkedin.svg"/></a>
