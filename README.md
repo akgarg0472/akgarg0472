@@ -7,7 +7,7 @@
 ## Connect with me
 <a href="https://www.linkedin.com/in/akgarg0472/"><img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/akgarg0472/akgarg0472/main/.github/images/linkedin.svg"/></a>
 <a href="https://twitter.com/akgarg0472"><img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/akgarg0472/akgarg0472/main/.github/images/twitter.png"/></a>
-<a href="https://www.instagram.com/akgarg0407/"><img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/akgarg0472/akgarg0472/main/.github/images/instagram.png"/></a>
+<a href="https://www.instagram.com/akgarg0472/"><img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/akgarg0472/akgarg0472/main/.github/images/instagram.png"/></a>
 <a href="https://www.facebook.com/akgarg0407"><img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/akgarg0472/akgarg0472/main/.github/images/facebook.png" /></a>
 <br/>
 
