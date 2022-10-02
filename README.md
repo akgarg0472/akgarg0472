@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning how to build robust and scalable distributed systems
 - 💬 Ask me about Java, Full stack Development
 - ⚡ Music Lover🎵❤️
-- 📫 How to reach me: Check below links 👇🏻👇🏻
+- 📫 How to reach me: Check below links 👇🏻😊
 
 <a href="https://www.linkedin.com/in/akgarg0472/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/akgarg0472"><img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
@@ -22,7 +22,6 @@
 
 ## 📊 Statistics
 <img width="600px" height="450px" src="https://wakatime.com/share/@akgarg0472/debc8931-4987-4de8-bfb2-04296e5e2cd4.png" />
-<br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akgarg0472&layuout=compact&theme=gotham" alt="Weekly stats"/>
 
 ## Tech Stack & Tools
