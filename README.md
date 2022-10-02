@@ -19,10 +19,6 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=akgarg0472&show_icons=true&theme=gotham&count_private=true" alt="Akhilesh Garg | Stats"></p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akgarg0472&&theme=gotham" alt="Akhilesh Garf | Streaks"></p>
 
-## 📊 Statistics
-<img width="600px" height="450px" src="https://wakatime.com/share/@akgarg0472/debc8931-4987-4de8-bfb2-04296e5e2cd4.png" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=akgarg0472&layuout=compact&theme=gotham" alt="Weekly stats"/>
-
 ## Tech Stack & Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -55,6 +51,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+## 📊 Statistics
+<img width="600px" height="450px" src="https://wakatime.com/share/@akgarg0472/debc8931-4987-4de8-bfb2-04296e5e2cd4.png" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=akgarg0472&layuout=compact&theme=gotham" alt="Weekly stats"/>
 
 ### Profile visits
 <img src='https://profile-counter.glitch.me/akgarg0472/count.svg' width='auto'>
