@@ -33,7 +33,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 Coding Statistics
-<img width="600px" height="450px" src="https://wakatime.com/share/@akgarg0472/debc8931-4987-4de8-bfb2-04296e5e2cd4.png" />
+<!-- <img width="600px" height="450px" src="https://wakatime.com/share/@akgarg0472/debc8931-4987-4de8-bfb2-04296e5e2cd4.png" /> -->
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akgarg0472&layuout=compact&theme=gotham" alt="Weekly stats"/>
 
 ### Visitors 👀
