@@ -6,14 +6,12 @@
 - 🌟 Unveiling mysteries of Tools & Frameworks Through Hands-On Journey
 - 📫 Social Links: 👇🏻
 
-<a href="https://www.linkedin.com/in/akgarg0472/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:akgarg0472@gmail.com"><img align="left" alt="Instagram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/akgarg0472/" target="_blank"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:akgarg0472@gmail.com" target="_blank"><img align="left" alt="Instagram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br/>&nbsp;
 
 ## 📄 Github Summary
-<!-- <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=akgarg0472&theme=darkhub" alt="Akhilesh Garg github quick summary"/></p> -->
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=akgarg0472&show_icons=true&theme=gotham&count_private=true" alt="Akhilesh Garg | Stats"></p>
-<!-- <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akgarg0472&&theme=gotham" alt="Akhilesh Garf | Streaks"></p> -->
 
 ## ⚙️ TechStack & Toolbox
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -33,8 +31,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 Coding Statistics
-<!-- <img width="600px" height="450px" src="https://wakatime.com/share/@akgarg0472/debc8931-4987-4de8-bfb2-04296e5e2cd4.png" /> -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=akgarg0472&layuout=compact&theme=gotham" alt="Weekly stats"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=akgarg0472&layuout=compact&theme=gotham&langs_count=20&layout=compact&custom_title=Coding%20Stats" alt="Coding stats"/>
 
 ### Visitors 👀
 <img src='https://profile-counter.glitch.me/akgarg0472/count.svg' width='auto'>
